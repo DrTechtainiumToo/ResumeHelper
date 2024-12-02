@@ -1,0 +1,7 @@
+requirements.txt
+
+spacy
+spacy_wordnet
+python-docx
+requests
+beautifulsoup4
