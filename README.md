@@ -59,16 +59,6 @@ This program helps users optimize their resumes to match specific job descriptio
     - **Application Status**
     - **Last Update**
 
-### **Phase 3: Extended Features**
-- **Web Scraper for Job Listings**:
-  - Build a scraper to fetch job descriptions from LinkedIn, Indeed, or other platforms.
-  - Use libraries like `BeautifulSoup` or available APIs for structured data collection.
-- **Scalability**:
-  - Plan for cloud hosting or database integration for cross-device access and real-time updates.
-  - Consider email integration to automatically track application statuses.
-- **Workflow Automation**:
-  - Provide a seamless flow where users can refine inputs, generate outputs, and resubmit resumes dynamically.
-
 ---
 
 ## **Proposed Workflow**
